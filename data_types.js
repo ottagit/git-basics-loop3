@@ -19,5 +19,5 @@ console.log(fruit);
 const PI = 3.142;
 console.log(PI);
 // Error or warning upon reassignment of a constant
-PI = 12.32;
-console.log(PI);
+//PI = 12.32;
+//console.log(PI);
